@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Lights Along the Corridor: A Before-and-After Spatial Assessment of Economic Activity Growth along the AfDB-Funded Arusha-Holili/Taveta-Voi Road Using Nighttime Lights"
+type: software
+authors:
+  - family-names: Mwesigye
+    given-names: Andrew Moses
+date-released: 2026-10-04
+version: 1.0.0
+license: MIT
+keywords:
+  - nighttime lights
+  - VIIRS
+  - spatial statistics
+  - BYM2
+  - R-INLA
+  - Google Earth Engine
+  - transport infrastructure evaluation
+  - African Development Bank
+  - Kenya
+  - Tanzania

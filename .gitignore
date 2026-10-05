@@ -1,0 +1,13 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Large model objects (regenerate with scripts/02_bym2_change_model.R)
+outputs/model/*.rds
+outputs/model/*.adj
+
+# OS files
+.DS_Store
+Thumbs.db
